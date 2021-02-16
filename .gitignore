@@ -1,0 +1,10 @@
+# Virtual Environment
+/venv
+
+# Notebook files
+*.ipynb
+
+# Data files
+
+# Misc
+/.vscode
